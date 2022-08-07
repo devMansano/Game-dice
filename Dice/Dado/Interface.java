@@ -1,11 +1,6 @@
 import java.util.Scanner;
 
-/**
- * Escreva uma descrição da classe Interface aqui.
- * 
- * @author (seu nome) 
- * @version (um número da versão ou uma data)
- */
+
 public class Interface
 {
     ROLARDADOS kd = new ROLARDADOS();
